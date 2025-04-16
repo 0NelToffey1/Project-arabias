@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "bilad al sham",
+		"leaderName": "Al-shamy",
+		"adjective": ["shamian"],
+		"startBias": ["[forest][desert]"],
+		"preferredVictoryType": "Religious",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Alsalamu allaik!",
+		"startIntroPart2": "you shall rule over the land of religions and cultures, and protect the peace and equality it held for years!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We wish peace, but you left us no choice...",
+		"attacked": "We only fall standing!",
+		"defeated": "I acknowledge that you have beaten us with honour, I respect that, may your rule be successful.",
+		"introduction": "Alsalamu allaikom!, we are the people of great Damascus! Land of culture and religion!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralHello": "Hi good friend!",
+		"neutralLetsHearIt": ["Go on.","What do you say?"],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "I prefer not talking with you...",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Finally peace rules the land again, like it should be!",
+		"tradeRequest": "We have thought very deeply into this offer, what do you say?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [220,20,20],
+		"innerColor": [45, 225, 20],
+		"favoredReligion": "Islam",
+		"unique": "+1 cultural points from every wonder",
+		"cities": ["Damascus","Hama","Homs","Jerusalem","Baalbek","Aleppo","Qinnasrin"]
 	}
 ]
